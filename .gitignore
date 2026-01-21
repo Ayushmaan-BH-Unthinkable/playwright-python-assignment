@@ -4,4 +4,4 @@ __pycache__/
 .env
 playwright/.cache/
 test-results/
-.idea/
+.idea
